@@ -3,8 +3,7 @@ node_modules/
 */node_modules/
 **/node_modules/
 
-# Archivos de bloqueo de dependencias (mantener solo uno por proyecto)
-package-lock.json
+# Archivos de bloqueo de dependencias (mantener package-lock.json, excluir otros)
 yarn.lock
 pnpm-lock.yaml
 

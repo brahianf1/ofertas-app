@@ -1,5 +1,4 @@
 # Docker Compose para la aplicación de Ofertas
-version: '3.8'
 
 services:
   # Backend - API Node.js
