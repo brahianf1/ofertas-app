@@ -8,7 +8,6 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { 
   Search, 
   Filter, 
-  X, 
   ChevronDown,
   RotateCcw
 } from 'lucide-react';

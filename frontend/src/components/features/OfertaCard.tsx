@@ -4,7 +4,6 @@
  */
 
 import React from 'react';
-import { motion } from 'framer-motion';
 import { 
   ExternalLink, 
   Copy, 
@@ -17,7 +16,7 @@ import {
   Bug,
   Zap
 } from 'lucide-react';
-import { Card, CardHeader, CardTitle, CardContent, CardFooter, Button, Badge } from '@/components/ui';
+import { Card, Button, Badge } from '@/components/ui';
 import { useOfertaStatus } from '@/hooks/useOfertaStatus';
 import { useCopyToClipboard } from '@/hooks/useCopyToClipboard';
 import { formatearFechaRelativa } from '@/utils/date';
@@ -30,7 +29,7 @@ interface OfertaCardProps {
   onViewDetail?: (oferta: Oferta) => void;
 }
 
-const OfertaCard: React.FC<OfertaCardProps> = ({ oferta, index = 0, onViewDetail }) => {
+const OfertaCard: React.FC<OfertaCardProps> = ({ oferta, onViewDetail }) => {
   const estadoOferta = useOfertaStatus(oferta.vigenciaOferta);
   const { copy, isCopied } = useCopyToClipboard();
 

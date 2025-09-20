@@ -3,7 +3,7 @@
  * Captura errores y muestra una interfaz de fallback elegante
  */
 
-import React, { Component, ReactNode } from 'react';
+import React, { Component, type ReactNode } from 'react';
 import { motion } from 'framer-motion';
 import { RefreshCw, AlertTriangle } from 'lucide-react';
 import { Button } from '@/components/ui';
@@ -77,7 +77,7 @@ class ErrorBoundary extends Component<Props, State> {
               Ha ocurrido un error inesperado. Por favor, intenta recargar la página.
             </motion.p>
 
-            {process.env.NODE_ENV === 'development' && this.state.error && (
+            {import.meta.env.DEV && this.state.error && (
               <motion.div
                 className="mb-6 p-3 bg-error-50 border border-error-200 rounded-lg text-left"
                 initial={{ opacity: 0 }}

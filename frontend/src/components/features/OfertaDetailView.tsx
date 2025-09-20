@@ -18,7 +18,6 @@ import {
   Bug,
   Zap,
   Clock,
-  MapPin,
   Share2,
   Bookmark
 } from 'lucide-react';

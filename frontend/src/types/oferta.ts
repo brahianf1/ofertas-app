@@ -17,6 +17,8 @@ export interface VigenciaOferta {
 export interface Links {
   urlOferta: string;
   urlPostForo: string | null;
+  url_oferta?: string;
+  url_post_foro?: string | null;
 }
 
 export interface Oferta {
@@ -48,7 +50,7 @@ export interface FiltrosOferta {
 export interface OpcionesConsulta {
   pagina?: number;
   limite?: number;
-  ordenarPor?: 'fecha_hora_publicacion' | 'fecha_creacion';
+  ordenarPor?: 'fecha_hora_publicacion' | 'fecha_creacion' | 'titulo_oferta' | 'empresa_tienda';
   orden?: 'asc' | 'desc';
 }
 

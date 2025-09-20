@@ -13,7 +13,6 @@ import OfertaGrid from './OfertaGrid';
 import OfertaFilters from './OfertaFilters';
 import OfertaSorting from './OfertaSorting';
 import OfertaDetailView from './OfertaDetailView';
-import LoadingSpinner from '@/components/common/LoadingSpinner';
 import ScrollToTop from '@/components/common/ScrollToTop';
 import { mockOfertas, mockOpcionesFiltros } from '@/data/mockData';
 import { cn } from '@/utils/cn';
@@ -24,19 +23,13 @@ const OfertasPage: React.FC = () => {
   const [ofertaSeleccionada, setOfertaSeleccionada] = useState<Oferta | null>(null);
   
   const {
-    filtros,
-    opciones,
     sortField,
     sortDirection,
     vistaActual,
     mostrarOrdenamiento,
-    cargando,
-    error,
     setVistaActual,
     setSorting,
     toggleOrdenamiento,
-    setCargando,
-    setError,
     setOpciones
   } = useOfertaStore();
 

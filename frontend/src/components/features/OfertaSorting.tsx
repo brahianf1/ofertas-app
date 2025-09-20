@@ -10,6 +10,7 @@ import SortButton, { type SortDirection } from '@/components/ui/SortButton';
 import { cn } from '@/utils/cn';
 
 export type SortField = 'fecha_hora_publicacion' | 'fecha_creacion' | 'titulo_oferta' | 'empresa_tienda';
+export type SortDirection = 'asc' | 'desc' | null;
 
 interface SortOption {
   field: SortField;
