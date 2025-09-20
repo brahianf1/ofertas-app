@@ -11,14 +11,17 @@ WORKDIR /app
 COPY package*.json ./
 COPY tsconfig.json ./
 
-# Instalar dependencias
-RUN npm ci --omit=dev && npm cache clean --force
+# Instalar todas las dependencias (incluyendo dev para compilar)
+RUN npm ci && npm cache clean --force
 
 # Copiar código fuente
 COPY src ./src
 
 # Compilar TypeScript
 RUN npm run build
+
+# Instalar solo dependencias de producción para la siguiente etapa
+RUN npm ci --omit=dev && npm cache clean --force
 
 # Etapa de producción
 FROM node:18-alpine AS production
