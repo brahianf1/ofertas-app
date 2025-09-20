@@ -1,0 +1,157 @@
+{
+    "ofertas_encontradas": [
+    {
+        "titulo_oferta": "15% de Reintegro con MODO Contactless (NFC) y VISA",
+        "contexto_y_descripcion": "Promoción de bonificación del 15% de reintegro sobre el monto total bruto del pago realizado en Comercios Adheridos mediante MODO Contactless (NFC), con un tope de reintegro de hasta $6.500 por usuario por promoción.",
+        "empresa_tienda": "MODO",
+        "categoria": "Promoción",
+        "codigo_cupon": null,
+        "esBug": false,
+        "links": {
+        "url_oferta": null,
+        "url_post_foro": "https://foros.3dgames.com.ar/threads/942062-ofertas-online-argentina?p=25758759&viewfull=1#post25758759"
+        },
+        "imagenes_adjuntas": [
+        "https://i.ibb.co/qLJ2Z2y2/MODO.jpg",
+        "https://i.imgur.com/Kix5UQD.png"
+        ],
+        "fecha_hora_publicacion": "2025-09-19T18:12:00",
+        "publicado_por_usuario": "mhmr",
+        "vigencia_oferta": {
+        "fecha_inicio": null,
+        "fecha_fin": null
+        },
+        "tips_de_la_comunidad": [
+        {
+            "tipo": "Contexto",
+            "descripcion": "Para hacer uso de la promoción, es necesario habilitar la funcionalidad contactless de MODO. La oferta es válida para pagos realizados con tarjetas VISA.",
+            "usuario": "elpibevdp"
+        }
+        ]
+    },
+    {
+        "titulo_oferta": "25% de Reintegro con MODO en Supermercados (Vea)",
+        "contexto_y_descripcion": "Consulta sobre una promoción de MODO que ofrece un 25% de reintegro en supermercados (especialmente Vea), y si esta bonificación es aplicable también a tarjetas adicionales, a diferencia de otras promociones como las del Banco Galicia.",
+        "empresa_tienda": "MODO",
+        "categoria": "Promoción",
+        "codigo_cupon": null,
+        "esBug": false,
+        "links": {
+        "url_oferta": "https://www.modo.com.ar/promosisupersmodo-julio25",
+        "url_post_foro": "https://foros.3dgames.com.ar/threads/942062-ofertas-online-argentina?p=25758762&viewfull=1#post25758762"
+        },
+        "imagenes_adjuntas": [
+        "https://i.imgur.com/mb5bHGQ.png"
+        ],
+        "fecha_hora_publicacion": "2025-09-19T18:28:00",
+        "publicado_por_usuario": "Raulo.",
+        "vigencia_oferta": {
+        "fecha_inicio": null,
+        "fecha_fin": null
+        },
+        "tips_de_la_comunidad": [
+        {
+            "tipo": "Contexto",
+            "descripcion": "La promoción del 25% de MODO en supermercados (Vea) sí aplica para tarjetas adicionales, confirmado por experiencia personal de haberla utilizado con dos tarjetas adicionales.",
+            "usuario": "Quesitu"
+        }
+        ]
+    },
+    {
+        "titulo_oferta": "Smart TV Samsung 50' Crystal UHD 4K (474k con cupón MLEXCLUSIVO en Mercado Libre)",
+        "contexto_y_descripcion": "Compra de un Smart TV Samsung 50' Crystal UHD 4K UN50DU7000 en Mercado Libre. El precio final fue de 474.000 aplicando el cupón MLEXCLUSIVO, que descontó 5.000. Se pagó en 1 cuota, con la expectativa de que el valor en dólares al momento del pago (10 de octubre) sea favorable, situándolo por debajo de los 300 USD. Considerado un buen deal por el usuario.",
+        "empresa_tienda": "Mercado Libre",
+        "categoria": "Oferta",
+        "codigo_cupon": "MLEXCLUSIVO",
+        "esBug": false,
+        "links": {
+        "url_oferta": "https://www.mercadolibre.com.ar/smart-tv-samsung-50-crystal-uhd-4k-un50du7000/p/MLA46526613?pdp_filters=official_store%3A1425#polycard_client%3Drecommendations_recoview-selleritems-eshops%26reco_backend%3Dsame-seller-odin%26wid%3DMLA1486896711%26reco_client%3Drecoview-selleritems-eshops%26reco_item_pos%3D0%26reco_backend_type%3Dlow_level%26reco_id%3D645323e5-7037-4ecd-8f29-7c0d2ffa2128%26sid%3Drecos%26tracking_id%3D96f43d66-2e1f-46fe-8469-2f239dc34fff%26source%3Deshops%26seller_id%3D287440338%26category_id%3DMLA1002",
+        "url_post_foro": "https://foros.3dgames.com.ar/threads/942062-ofertas-online-argentina?p=25758855&viewfull=1#post25758855"
+        },
+        "imagenes_adjuntas": [
+        "https://i.ibb.co/chmxkp2P/smarting.jpg"
+        ],
+        "fecha_hora_publicacion": "2025-09-19T21:20:00",
+        "publicado_por_usuario": "Adanapme",
+        "vigencia_oferta": {
+        "fecha_inicio": null,
+        "fecha_fin": null
+        },
+        "tips_de_la_comunidad": []
+    },
+    {
+        "titulo_oferta": "Disco Sólido Western Digital 512GB SSD M.2 NVMe (33k en Mercado Libre)",
+        "contexto_y_descripcion": "Reposición de stock de discos OEM de 512GB a 33.000. El producto es un Disco Sólido Western Digital 512gb Ssd M.2 Nvme 2242 Gen 4 Pcie 4.0. El usuario que lo compró reporta que llegó con solo 30GB escritos y destaca su rapidez.",
+        "empresa_tienda": "Mercado Libre",
+        "categoria": "Oferta",
+        "codigo_cupon": null,
+        "esBug": false,
+        "links": {
+        "url_oferta": "https://www.mercadolibre.com.ar/disco-solido-western-digital-512gb-ssd-m2-nvme-2242-gen-4-pcie-40-x-4-bulk-oem-para-ensamblar-wd-pc-sn740-sddpmqd-512g-1101-hf/p/MLA55289588#polycard_client=search-nordic&search_layout=stack&position=1&type=product&tracking_id=e8c09e63-ff91-40c3-a97e-ce0481131162&wid=MLA1529637245&sid=search",
+        "url_post_foro": "https://foros.3dgames.com.ar/threads/942062-ofertas-online-argentina?p=25758883&viewfull=1#post25758883"
+        },
+        "imagenes_adjuntas": [],
+        "fecha_hora_publicacion": "2025-09-19T22:10:00",
+        "publicado_por_usuario": "X-bit",
+        "vigencia_oferta": {
+        "fecha_inicio": null,
+        "fecha_fin": null
+        },
+        "tips_de_la_comunidad": [
+        {
+            "tipo": "Contexto",
+            "descripcion": "El envío tuvo un costo cercano a los 5.000, pero se pudo compensar con un cupón 'exclusivo' de 5.000. El precio sigue siendo aproximadamente 10.000 más barato que el de otros vendedores para el mismo disco OEM.",
+            "usuario": "X-bit"
+        },
+        {
+            "tipo": "Mejora",
+            "descripcion": "Para obtener envío gratis, se aconseja añadir el artículo más barato que tenga el vendedor a la compra. Por ejemplo, con un cable, se puede alcanzar el mínimo requerido (ej: 33k) y ahorrar unos 7.500 de envío.",
+            "usuario": "elmartin_14_2"
+        }
+        ]
+    },
+    {
+        "titulo_oferta": "Automatizadores de Riego a Pila (Oportunidad en Tienda Newsan y Mercado Libre)",
+        "contexto_y_descripcion": "Un usuario comparte su descubrimiento de automatizadores de riego a pila, destacando su utilidad para diversas aplicaciones como renovar el agua fresca de mascotas en verano o para riego puntual. Menciona que hay varios modelos disponibles en Mercado Libre, lo que representa una oportunidad para aplicar cupones.",
+        "empresa_tienda": "Tienda Newsan, Mercado Libre",
+        "categoria": "Oportunidad",
+        "codigo_cupon": null,
+        "esBug": false,
+        "links": {
+        "url_oferta": null,
+        "url_post_foro": "https://foros.3dgames.com.ar/threads/942062-ofertas-online-argentina?p=25758912&viewfull=1#post25758912"
+        },
+        "imagenes_adjuntas": [
+        "https://i.imgur.com/p0L7uQq.jpeg",
+        "https://ae01.alicdn.com/kf/HTB1bwU2sb9YBuNjy0Fgq6AxcXXa7.jpg_640x640q90.jpg"
+        ],
+        "fecha_hora_publicacion": "2025-09-19T23:37:00",
+        "publicado_por_usuario": "elmartin_14_2",
+        "vigencia_oferta": {
+        "fecha_inicio": null,
+        "fecha_fin": null
+        },
+        "tips_de_la_comunidad": []
+    },
+    {
+        "titulo_oferta": "18 Cuotas Sin Interés en Diggit (Posible Bug)",
+        "contexto_y_descripcion": "Se reporta una situación inusual en Diggit donde, al simular compras con cualquier tarjeta, se ofrecía la opción de pagar en 18 cuotas sin interés. El usuario plantea la duda de si se trata de un bug o una promoción.",
+        "empresa_tienda": "Diggit",
+        "categoria": "Promoción",
+        "codigo_cupon": null,
+        "esBug": true,
+        "links": {
+        "url_oferta": null,
+        "url_post_foro": "https://foros.3dgames.com.ar/threads/942062-ofertas-online-argentina?p=25758943&viewfull=1#post25758943"
+        },
+        "imagenes_adjuntas": [],
+        "fecha_hora_publicacion": "2025-09-20T00:36:00",
+        "publicado_por_usuario": "Armando-Barreda",
+        "vigencia_oferta": {
+        "fecha_inicio": null,
+        "fecha_fin": null
+        },
+        "tips_de_la_comunidad": []
+    }
+    ]
+}
