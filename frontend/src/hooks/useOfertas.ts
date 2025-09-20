@@ -6,7 +6,7 @@
 import { useQuery } from '@tanstack/react-query';
 import { apiService } from '@/services/api';
 import { useOfertaStore } from '@/store/useOfertaStore';
-import type { Oferta, OpcionesFiltros } from '@/types/oferta';
+import type { OpcionesFiltros } from '@/types/oferta';
 
 export const useOfertas = () => {
   const { filtros, opciones } = useOfertaStore();

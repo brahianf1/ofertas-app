@@ -55,8 +55,8 @@ const OfertasPage: React.FC = () => {
 
   const ofertas = isConnectionError ? mockOfertas : (ofertasData?.ofertas || []);
   const pagination = ofertasData?.pagination;
-  const isLoading = isLoadingOfertas || cargando;
-  const hasError = errorOfertas && !isConnectionError ? error : null;
+  const isLoading = isLoadingOfertas;
+  const hasError = errorOfertas && !isConnectionError ? errorOfertas : null;
   const filtrosOptions = isConnectionError ? mockOpcionesFiltros : (opcionesFiltros || { categorias: [], empresasTiendas: [], tiposTips: [] });
 
   const handleRefresh = () => {
@@ -220,6 +220,7 @@ const OfertasPage: React.FC = () => {
           <AnimatePresence>
             {mostrarOrdenamiento && (
               <motion.section
+                key="sorting"
                 initial={{ opacity: 0, y: -20, height: 0 }}
                 animate={{ opacity: 1, y: 0, height: 'auto' }}
                 exit={{ opacity: 0, y: -20, height: 0 }}

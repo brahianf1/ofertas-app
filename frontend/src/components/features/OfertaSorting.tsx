@@ -6,11 +6,11 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { SortAsc, Calendar, Clock, TrendingUp, Filter } from 'lucide-react';
-import SortButton, { type SortDirection } from '@/components/ui/SortButton';
+import SortButton, { type SortDirection as SortButtonDirection } from '@/components/ui/SortButton';
 import { cn } from '@/utils/cn';
 
 export type SortField = 'fecha_hora_publicacion' | 'fecha_creacion' | 'titulo_oferta' | 'empresa_tienda';
-export type SortDirection = 'asc' | 'desc' | null;
+export type SortDirection = SortButtonDirection;
 
 interface SortOption {
   field: SortField;
